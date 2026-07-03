@@ -1,6 +1,6 @@
 # Criptografia em C++: HECC e Feistel_Fp
 
-Este repositório contém o trabalho prático final da disciplina de **Tópicos Especiais em Segurança da Informação** (TCC00230) da Universidade Federal Fluminense (UFF), desenvolvido pela aluna Yohanna Dvorak.
+Este repositório contém o meu trabalho prático final da disciplina de **Tópicos Avançados em Ciência da Computação VI (Introdução à Criptografia)** (TCC00230) da Universidade Federal Fluminense (UFF).
 
 O projeto consiste na implementação integral de dois ecossistemas matemáticos complexos:
 
